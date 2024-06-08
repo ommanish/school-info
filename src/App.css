@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  margin-top: 100px;
+}
+
+.school-info {
+  border: 1px solid rgb(115, 115, 115);
+  padding: 20px;
+  margin: 20px auto;
+  width: 30%;
+  border-radius: 5px;
+}
+
+.school-info h1 {
+  color: #888;
+}
+
+.school-info p,
+.school-info span {
+  color: #888;
+}
